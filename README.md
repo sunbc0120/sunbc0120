@@ -13,5 +13,6 @@ I'm passionate about computer vision and its edge computing utilisation, as well
 - [LinkedIn](https://www.linkedin.com/in/sunbc0120)
 - [Google Scholar](https://scholar.google.com/citations?user=z4j3xxUAAAAJ&hl=en)
 - [Youtube](https://www.youtube.com/channel/UC0GU8mnSypgWMMnJcpLb0qQ?view_as=subscriber)
+- [stackoverflow](https://stackoverflow.com/users/3317548/b-sun)
 
 <!-- **sunbc0120/sunbc0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: - 🔭 I'm currently working on ... - 🌱 I'm currently learning ... - 👯 I'm looking to collaborate on ... - 🤔 I'm looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ... -->
