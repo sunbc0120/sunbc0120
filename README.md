@@ -1,16 +1,17 @@
-### Hi there 👋
+# Baichuan Sun, Ph.D
 
-<!--
-**sunbc0120/sunbc0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a mixed background from STEM, with a Bachelor degree of Mechanical Engineering from China, and a PhD on Thermodynamics from [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore. After a 3-year Postdoctoral Fellowship at [CSIRO](https://www.csiro.au/), Australia on Computational Nano Physics and Chemistry, I left academia and took roles in consulting industry, including at [McKinsey&Company](https://www.mckinsey.com/au/overview).
 
-Here are some ideas to get you started:
+Now I work as Senior Data Scientist at [AWS AI/ML Professional Services](https://aws.amazon.com/machine-learning/), to deliver strategic business solutions to customers from different industry sectors, with data-driven methodology on the cloud. So far being worked on challenging areas including robotics computer vision, time series forecasting, price optimisation, predictive maintenance, pharmaceutical development, product recommendation system, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about computer vision and its edge computing utilisation, as well as developing tools to democratise Data Science for people without technical background, so that they could focus on business value adding with their data asset.
+
+![Baichuan's Github stats](https://github-readme-stats.vercel.app/api?username=sunbc0120&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunbc0120&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+- [LinkedIn](https://www.linkedin.com/in/sunbc0120)
+- [Google Scholar](https://scholar.google.com/citations?user=z4j3xxUAAAAJ&hl=en)
+- [Youtube](https://www.youtube.com/channel/UC0GU8mnSypgWMMnJcpLb0qQ?view_as=subscriber)
+
+<!-- **sunbc0120/sunbc0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: - 🔭 I'm currently working on ... - 🌱 I'm currently learning ... - 👯 I'm looking to collaborate on ... - 🤔 I'm looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ... -->
