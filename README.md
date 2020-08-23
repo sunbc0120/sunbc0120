@@ -16,12 +16,4 @@ I'm especially passionate about computer vision and its edge computing utilisati
 - [StackOverflow](https://stackoverflow.com/users/3317548/b-sun)
 - [Instagram](https://www.instagram.com/sunbc0120)
 
-<p>
-<img src="./img/aws-certified-cloud-practitioner.png" width="120">
-<img src="./img/aws-certified-developer-associate.png" width="120">
-<img src="./img/aws-certified-solutions-architect-associate.png" width="120">
-<img src="./img/aws-certified-big-data-specialty.png" width="120">
-<img src="./img/aws-certified-machine-learning-specialty.png" width="120">
-</p>
-
 <!-- **sunbc0120/sunbc0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: - 🔭 I'm currently working on ... - 🌱 I'm currently learning ... - 👯 I'm looking to collaborate on ... - 🤔 I'm looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ... -->
