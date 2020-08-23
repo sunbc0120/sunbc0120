@@ -1,10 +1,10 @@
 # Baichuan Sun, Ph.D
 
-I have a mixed background from STEM, with a Bachelor degree of Mechanical Engineering from China, and a PhD on Thermodynamics from [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore. After a 3-year Postdoctoral Fellowship at [CSIRO](https://www.csiro.au/), Australia on Computational Nano Physics and Chemistry, I left academia and took roles in consulting industry, including at [McKinsey&Company](https://www.mckinsey.com/au/overview).
+I have a mixed background from STEM, with a Bachelor degree in Mechanical Engineering from China, and a PhD on Thermodynamics from [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore. After a 3-year Postdoctoral Fellowship at [CSIRO](https://www.csiro.au/), Australia on Computational Nano Physics and Chemistry, I left academia and took roles in the consulting industry, including at [McKinsey&Company](https://www.mckinsey.com/au/overview).
 
-Now I work as Senior Data Scientist at [AWS AI/ML Professional Services](https://aws.amazon.com/machine-learning/), to deliver strategic business solutions to customers from different industry sectors, with data-driven methodology on the cloud. So far being worked on challenging areas including robotics computer vision, time series forecasting, price optimisation, predictive maintenance, pharmaceutical development, product recommendation system, etc.
+Now I work as Senior Data Scientist at [AWS AI/ML Professional Services](https://aws.amazon.com/machine-learning), to deliver strategic business solutions to customers from different industry sectors, with data-driven methodology on the cloud. So far being worked on challenging areas including robotics computer vision, time series forecasting, price optimisation, predictive maintenance, pharmaceutical development, product recommendation system, etc.
 
-I'm passionate about computer vision and its edge computing utilisation, as well as developing tools to democratise Data Science for people without technical background, so that they could focus on business value adding with their data asset.
+I'm passionate about computer vision and its edge computing utilisation, as well as developing tools to democratise Data Science for people without a technical background so that they could focus on business value-adding with their data asset.
 
 ![Baichuan's Github stats](https://github-readme-stats.vercel.app/api?username=sunbc0120&show_icons=true&count_private=true)
 
