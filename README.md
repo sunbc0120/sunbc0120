@@ -8,11 +8,12 @@ Currently I work as Senior Data Scientist at [AWS AI/ML Professional Services](h
 
 - 📷 Robotics Computer Vision
 - :chart_with_upwards_trend: Time Series Forecasting
+- 🔍 Automatic Financial Audit via OCR
+- 🛒 Product Recommendation System
 - 💵 Price Optimisation
 - 🛩️ Predictive Maintenance
 - 💊 Pharmaceutical Development
-- 🛒 Product Recommendation System
-
+  
 I'm especially passionate about computer vision and its edge computing utilisation; I also enjoy developing tools to democratise Data Science for stakeholders without technical background for them to focus on business value-adding with their proprietary data asset.
 
 ## 📡 Contact
