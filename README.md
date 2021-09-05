@@ -14,18 +14,22 @@ Currently I work as Senior Data Scientist at [AWS AI/ML Professional Services](h
 - 🛩️ Predictive Maintenance
 - 💊 Pharmaceutical Development
   
-I'm especially passionate about computer vision and its edge computing utilisation; I also enjoy developing tools to democratise Data Science for stakeholders without technical background for them to focus on business value-adding with their proprietary data asset.
+I enjoy developing tools to democratise Data Science for stakeholders without technical background for them to focus on business value-adding with their proprietary data asset.
 
-## 📡 Contact
+## 🏆 Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sunbc0120&margin-w=15&&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🎛️ ️Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunbc0120&layout=compact&theme=nightowl&hide=jupyter%20notebook&langs_count=9)](https://github.com/anuraghazra/github-readme-stats) [![Baichuan's Github stats](https://github-readme-stats.vercel.app/api?username=sunbc0120&show_icons=true&count_private=true&include_all_commits=true&theme=nightowl)]((https://github.com/anuraghazra/github-readme-stats))
+
+## 📡 SNS
 
 - [LinkedIn](https://www.linkedin.com/in/sunbc0120)
 - [Google Scholar](https://scholar.google.com/citations?user=z4j3xxUAAAAJ&hl=en)
 - [Youtube](https://www.youtube.com/channel/UC0GU8mnSypgWMMnJcpLb0qQ?view_as=subscriber)
 - [StackOverflow](https://stackoverflow.com/users/3317548/b-sun)
 - [Instagram](https://www.instagram.com/sunbc0120)
-
-## 🎛️ ️Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunbc0120&layout=compact&theme=nightowl&hide=jupyter%20notebook&langs_count=9)](https://github.com/anuraghazra/github-readme-stats) [![Baichuan's Github stats](https://github-readme-stats.vercel.app/api?username=sunbc0120&show_icons=true&count_private=true&include_all_commits=true&theme=nightowl)]((https://github.com/anuraghazra/github-readme-stats))
 
 <!-- **sunbc0120/sunbc0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: - 🔭 I'm currently working on ... - 🌱 I'm currently learning ... - 👯 I'm looking to collaborate on ... - 🤔 I'm looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ... -->
