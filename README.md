@@ -2,9 +2,9 @@
 
 ## 🎒 Biography
 
-I have a mixed background from STEM, with a Bachelor degree in Mechanical Engineering from China 🇨🇳, and a PhD on Thermodynamics from [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore 🇸🇬. I had also been a research student at [Tohoku University](http://www.tohoku.ac.jp/en/), Japan 🇯🇵, and summer school attendee at [Wolfram Research](https://education.wolfram.com/summer/school/alumni/2013/sun/), US 🇺🇸. After a 3-year Postdoctoral Fellowship at [CSIRO](https://www.csiro.au/), Australia 🇦🇺 on [Computational Nano Physics and Chemistry](https://scholar.google.com/citations?user=z4j3xxUAAAAJ&hl=en), I left academia and took roles in the consulting industry, including at [McKinsey&Company](https://www.mckinsey.com/au/overview).
+With a diverse background spanning STEM, I bring a unique blend of knowledge and experiences to the table. I hold a Bachelor's degree in Mechanical Engineering from China 🇨🇳, and obtained my PhD in Thermodynamics from [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore 🇸🇬. In addition, I have been research student at [Tohoku University](http://www.tohoku.ac.jp/en/), Japan 🇯🇵, and participated in a summer school program at [Wolfram Research](https://education.wolfram.com/summer/school/alumni/2013/sun/) in the US 🇺🇸. After completing a Postdoctoral Fellowship in [Computational Nano Physics and Chemistry](https://scholar.google.com/citations?user=z4j3xxUAAAAJ&hl=en) at [CSIRO](https://www.csiro.au/), Australia 🇦🇺, I transitioned from academia to the consulting industry, where I held roles at [McKinsey&Company](https://www.mckinsey.com/au/overview).
 
-Currently I work as Senior Data Scientist at [AWS AI/ML Professional Services](https://aws.amazon.com/machine-learning), leveraging data-driven methodology on the cloud, to deliver strategic business solutions to customers from different industry sectors. So far been leading projects in challenging areas including:
+Currently, I serve as a Senior AI/ML Solutions Architect at [AWS](https://aws.amazon.com/machine-learning), where I leverage the power of cloud computing and data-driven methodologies. My role involves delivering strategic business solutions to clients across various industries. I have led challenging projects in diverse areas, including:
 
 - 📷 Robotics Computer Vision
 - :chart_with_upwards_trend: Time Series Forecasting
@@ -13,8 +13,8 @@ Currently I work as Senior Data Scientist at [AWS AI/ML Professional Services](h
 - 💵 Price Optimisation
 - 🛩️ Predictive Maintenance
 - 💊 Pharmaceutical Development
-  
-I enjoy developing tools to democratise Data Science for stakeholders without technical background for them to focus on business value-adding with their proprietary data asset.
+
+One of my passions lies in developing tools that democratize Data Science, enabling stakeholders without technical backgrounds to leverage their proprietary data assets and focus on adding business value.
 
 ## 🏆 Trophy
 
