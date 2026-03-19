@@ -108,20 +108,37 @@ At Google, I advise APAC’s enterprise C-suites on the sovereign adoption of Ge
 
 ---
 
-### 📡 Digital Presence
+### 🚀 Strategic Open Source Ecosystem
+*Active contributor to the foundational frameworks defining the future of AI/ML.*
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunbc0120)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=z4j3xxUAAAAJ&hl=en)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0GU8mnSypgWMMnJcpLb0qQ)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3317548/b-sun)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sunbc0120)
-
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastai-0056A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Labs-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-1E88E5?style=for-the-badge&logo=dmlc&logoColor=white" />
 </div>
 
 ---
 
-<p align="center">
-  <i>"The future of intelligence is not just in the silicon, but in the synthesis of human intent and machine kinetics."</i>
-</p>
+### 📡 Digital Presence
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sunbc0120" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+</a>
+<a href="https://scholar.google.com/citations?user=z4j3xxUAAAAJ&hl=en" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="45" alt="Google Scholar" />
+</a><br/>
+<a href="https://stackoverflow.com/users/3317548/b-sun" target="_blank">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="45" alt="StackOverflow" />
+</a>
+<a href="https://www.instagram.com/sunbc0120" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
+</a><br/>
+</div>
+
+---
+
