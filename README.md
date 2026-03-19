@@ -89,15 +89,14 @@ At Google, I advise APAC’s enterprise C-suites on the sovereign adoption of Ge
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sunbc0120&show_icons=true&count_private=true&include_all_commits=true&theme=nightowl&hide_border=true&title_color=4285F4" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sunbc0120&show_icons=true&count_private=true&include_all_commits=true&theme=default&bg_color=ffffff&hide_border=true&title_color=4285F4" alt="Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbc0120&layout=compact&theme=nightowl&hide=jupyter%20notebook&langs_count=6&hide_border=true&title_color=4285F4" alt="Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbc0120&layout=compact&theme=default&bg_color=ffffff&hide=jupyter%20notebook&langs_count=6&hide_border=true&title_color=4285F4" alt="Languages" />
       </td>
     </tr>
   </table>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunbc0120&theme=nightowl&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunbc0120&theme=default&background=ffffff&hide_border=true" alt="Streak" />
 </div>
 
 <div align="center">
