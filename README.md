@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>🧬 Baichuan Sun, Ph.D.</h1>
-  <p><b>Lead Generative AI Engineer @ Google APAC</b></p>
+  <h1>Baichuan Sun, Ph.D.</h1>
+  <p><b>Lead GenAI Engineer @ Google APAC</b></p>
   <p><i>Orchestrating the Frontier of Enterprise Intelligence & Infrastructure Economics</i></p>
   <p><i>Bridging Deep R&D, Corporate Strategy, and Production-Grade Engineering</i></p>
   <p align="center">
@@ -65,7 +65,7 @@ At Google, I advise APAC’s enterprise C-suites on the sovereign adoption of Ge
 
 | **Frontier GenAI & Research** | **Scalable Engineering & HPC** | **Strategy & Domain** |
 | :--- | :--- | :--- |
-| `Gemini / Gemma 3` | `NVIDIA B200 / TPU v5p` | `C-Suite Advisory` |
+| `Gemini / Gemma 3` | `NVIDIA B200` | `C-Suite Advisory & Consulting` |
 | `GRPO & RLHF (NeMo-RL)` | `Ray on GKE (KubeRay)` | `Unit Economics of AI` |
 | `Vertex AI & Model Garden` | `PyTorch FSDP & DCP` | `AI ROI & TCO Modeling` |
 | `Agentic RAG / Agents` | `vLLM & FlashInfer` | `Sovereign AI Frameworks` |
@@ -79,7 +79,7 @@ At Google, I advise APAC’s enterprise C-suites on the sovereign adoption of Ge
 *   **Lead GenAI Solutions:** Architecting AI roadmaps for APAC Decacorns, transforming legacy data into **Agentic Intelligence**.
 *   **Open Source Authority:** **80K+ downloads** of tools designed to bridge the gap between complex data assets and business value.
 *   **3M+ Professionals reached** via technical publications and strategic guidance on AI infrastructure and economics.
-*   **Global Footprint:** Mechanical Engineering (🇨🇳) → PhD at NTU (🇸🇬) → Research at Tohoku (🇯🇵) → Wolfram (🇺🇸) → CSIRO/McKinsey/AWS (🇦🇺) → Google.
+*   **Global Footprint:** Mechanical Engineering (🇨🇳) → Robotics Researcher at Tohoku (🇯🇵) → Statistical Physics PhD at NTU (🇸🇬) → Wolfram Summer School (🇺🇸) → CSIRO/McKinsey/AWS (🇦🇺) → Google.
 
 ---
 
