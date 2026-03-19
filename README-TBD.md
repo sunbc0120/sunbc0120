@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>Baichuan Sun, Ph.D.</h1>
+  <h1>🧬 Baichuan Sun, Ph.D.</h1>
   <p><b>Lead Generative AI Engineer @ Google APAC</b></p>
   <p><i>Orchestrating the Frontier of Enterprise Intelligence & Infrastructure Economics</i></p>
   <p><i>Bridging Deep R&D, Corporate Strategy, and Production-Grade Engineering</i></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Reasoning-blue?style=flat-square&logo=google-cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/Compute-NVIDIA%20B200%20%2F%20TPU%20v5-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Reasoning-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Compute-NVIDIA%20B200%20%2F%20TPU%20v5-34A853?style=flat-square" />
     <img src="https://img.shields.io/badge/Framework-NeMo--RL%20%2F%20Ray-orange?style=flat-square" />
   </p>
 </div>
@@ -13,7 +13,7 @@
 ---
 
 ### 🌐 The Convergence of Intelligence & Strategy
-I architect the bridge between **scientific rigor** and **sustainable business value**. My work centers on translating the kinetic energy of frontier AI research into the potential energy of enterprise transformation. From computational physics to  boardroom decision-making and hyperscale cloud AI engineering, I navigate the full stack of modern intelligence.
+I architect the bridge between **scientific rigor** and **sustainable business value**. My work centers on translating the kinetic energy of frontier AI research into the potential energy of enterprise transformation. From computational physics to boardroom decision-making and hyperscale cloud AI engineering, I navigate the full stack of modern intelligence.
 
 ---
 
@@ -65,7 +65,7 @@ At Google, I advise APAC’s enterprise C-suites on the sovereign adoption of Ge
 
 | **Frontier GenAI & Research** | **Scalable Engineering & HPC** | **Strategy & Domain** |
 | :--- | :--- | :--- |
-| `Gemini Multi-modal Series` | `NVIDIA B200 / TPU v5p` | `Management Consulting` |
+| `Gemini / Gemma 3` | `NVIDIA B200 / TPU v5p` | `C-Suite Advisory` |
 | `GRPO & RLHF (NeMo-RL)` | `Ray on GKE (KubeRay)` | `Unit Economics of AI` |
 | `Vertex AI & Model Garden` | `PyTorch FSDP & DCP` | `AI ROI & TCO Modeling` |
 | `Agentic RAG / Agents` | `vLLM & FlashInfer` | `Sovereign AI Frameworks` |
@@ -89,10 +89,10 @@ At Google, I advise APAC’s enterprise C-suites on the sovereign adoption of Ge
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sunbc0120&show_icons=true&count_private=true&include_all_commits=true&theme=nightowl&hide_border=true&title_color=4285F4" alt="Baichuan's Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sunbc0120&show_icons=true&count_private=true&include_all_commits=true&theme=nightowl&hide_border=true&title_color=4285F4" alt="Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbc0120&layout=compact&theme=nightowl&hide=jupyter%20notebook&langs_count=6&hide_border=true&title_color=4285F4" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbc0120&layout=compact&theme=nightowl&hide=jupyter%20notebook&langs_count=6&hide_border=true&title_color=4285F4" alt="Languages" />
       </td>
     </tr>
   </table>
