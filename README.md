@@ -7,6 +7,8 @@
     <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Reasoning-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Compute-NVIDIA%20B200%20%2F%20TPU%20v5-34A853?style=flat-square" />
     <img src="https://img.shields.io/badge/Framework-NeMo--RL%20%2F%20Ray-orange?style=flat-square" />
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square"" />
+    <img src="https://img.shields.io/badge/Open%20Source-High%20Impact-4285F4?style=flat-square"" />
   </p>
 </div>
 
@@ -97,13 +99,6 @@ At Google, I advise APAC’s enterprise C-suites on the sovereign adoption of Ge
     </tr>
   </table>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunbc0120&theme=default&background=ffffff&hide_border=true" alt="Streak" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  <img src="https://img.shields.io/badge/Open%20Source-High%20Impact-4285F4" />
-  <img src="https://img.shields.io/badge/Scale-B200%20%2F%20TPU-success" />
 </div>
 
 ---
