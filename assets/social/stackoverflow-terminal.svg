@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="116" viewBox="0 0 420 116" role="img" aria-labelledby="title desc">
+  <title id="title">Stack Overflow endpoint</title>
+  <desc id="desc">Terminal-style link to Baichuan Sun on Stack Overflow.</desc>
+  <style>
+    :root { color-scheme: light dark; }
+    .bg { fill: #f6f8fa; stroke: #d0d7de; }
+    .label, .command { fill: #1f2328; }
+    .muted { fill: #656d76; }
+    .command { fill: #0550ae; }
+    .status { fill: #1a7f37; }
+    .dot { fill: #1a7f37; transform-origin: center; animation: pulse 2.4s ease-in-out infinite; }
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #161b22; stroke: #30363d; }
+      .label, .command { fill: #f0f6fc; }
+      .muted { fill: #8b949e; }
+      .command { fill: #79c0ff; }
+      .status, .dot { fill: #3fb950; }
+    }
+    @media (prefers-reduced-motion: reduce) { .dot { animation: none; } }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .35; } }
+  </style>
+  <rect class="bg" x=".5" y=".5" width="419" height="115" rx="8"/>
+  <g transform="translate(18 16) scale(1.16)" fill="#F58025"><path d="M15.725 0l-1.72 1.277 6.39 8.588 1.716-1.277L15.725 0zm-3.94 3.418l-1.369 1.644 8.225 6.85 1.369-1.644-8.225-6.85zm-3.15 4.465l-.905 1.94 9.702 4.517.904-1.94-9.701-4.517zm-1.85 4.86l-.44 2.093 10.473 2.201.44-2.092-10.473-2.203zM1.89 15.47V24h19.19v-8.53h-2.133v6.397H4.021v-6.396H1.89zm4.265 2.133v2.13h10.66v-2.13H6.154Z"/></g>
+  <text class="label" x="58" y="34" font-size="13" font-weight="700" letter-spacing=".7">STACK OVERFLOW</text>
+  <circle class="dot" cx="347" cy="29" r="4"/>
+  <text class="status" x="358" y="34" font-size="11" font-weight="700">200 OK</text>
+  <text class="command" x="18" y="73" font-size="14">$ curl stack://users/3317548</text>
+  <text class="muted" x="18" y="98" font-size="12">https · technical answers</text>
+</svg>

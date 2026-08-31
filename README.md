@@ -106,22 +106,22 @@ At Google, I advise APAC’s enterprise C-suites on the sovereign adoption of Ge
 
 ---
 
-### 📡 Digital Presence
-
+### 📡 External Interfaces
 <div align="center">
-
-<a href="https://www.linkedin.com/in/sunbc0120" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
-</a>
-<a href="https://scholar.google.com/citations?user=z4j3xxUAAAAJ&hl=en" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="45" alt="Google Scholar" />
-</a><br/>
-<a href="https://stackoverflow.com/users/3317548/b-sun" target="_blank">
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="45" alt="StackOverflow" />
-</a>
-<a href="https://www.instagram.com/sunbc0120" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
-</a><br/>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/sunbc0120">
+    <img src="./assets/social/linkedin-terminal.svg" width="390" alt="Connect with Baichuan Sun on LinkedIn" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=z4j3xxUAAAAJ&amp;hl=en">
+    <img src="./assets/social/scholar-terminal.svg" width="390" alt="View Baichuan Sun on Google Scholar" />
+  </a>
+  <br/>
+  <a href="https://stackoverflow.com/users/3317548/b-sun">
+    <img src="./assets/social/stackoverflow-terminal.svg" width="390" alt="View Baichuan Sun on Stack Overflow" />
+  </a>
+  <a href="https://www.instagram.com/sunbc0120">
+    <img src="./assets/social/instagram-terminal.svg" width="390" alt="Follow Baichuan Sun on Instagram" />
+  </a>
 </div>
 
 ---
