@@ -1,0 +1,32 @@
+{
+  "type": "normal",
+  "fileName": "profile-google-dual.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#202124",
+  "strongColor": "#4285F4",
+  "weakColor": "#5f6368",
+  "radarColor": "#34A853",
+  "growingAnimation": true,
+  "contribColors": [
+    "#f1f3f4",
+    "#c6dafc",
+    "#8ab4f8",
+    "#4285f4",
+    "#174ea6"
+  ],
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#f0f6fc",
+    "strongColor": "#8ab4f8",
+    "weakColor": "#8b949e",
+    "radarColor": "#81c995",
+    "contribColors": [
+      "#161b22",
+      "#0e4429",
+      "#006d32",
+      "#26a641",
+      "#39d353"
+    ]
+  }
+}
