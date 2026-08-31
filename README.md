@@ -1,14 +1,13 @@
 <div align="center">
   <h1>Baichuan Sun, Ph.D.</h1>
   <p><b>Lead GenAI Engineer @ Google APAC</b></p>
-  <p><i>Orchestrating the Frontier of Enterprise Intelligence & Infrastructure Economics</i></p>
   <p><i>Bridging Deep R&D, Corporate Strategy, and Production-Grade Engineering</i></p>
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Reasoning-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Compute-NVIDIA%20B200%20%2F%20TPU%20v5-34A853?style=flat-square" />
     <img src="https://img.shields.io/badge/Framework-NeMo--RL%20%2F%20Ray-orange?style=flat-square" />
-    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square"" />
-    <img src="https://img.shields.io/badge/Open%20Source-High%20Impact-4285F4?style=flat-square"" />
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" />
+    <img src="https://img.shields.io/badge/Open%20Source-High%20Impact-4285F4?style=flat-square" />
   </p>
 </div>
 
@@ -79,26 +78,16 @@ At Google, I advise APAC’s enterprise C-suites on the sovereign adoption of Ge
 > "Science is only as useful as its ability to be democratized."
 
 *   **Lead GenAI Solutions:** Architecting AI roadmaps for APAC Decacorns, transforming legacy data into **Agentic Intelligence**.
-*   **Open Source Authority:** **80K+ downloads** of tools designed to bridge the gap between complex data assets and business value.
+*   **Open Source Authority:** Co-author and PyPI maintainer of [Amazon DenseClus](https://github.com/awslabs/amazon-denseclus), an AWS Labs package for mixed-type clustering with [138K+ downloads on PyPI](https://pypi.org/project/amazon-denseclus/).
 *   **3M+ Professionals reached** via technical publications and strategic guidance on AI infrastructure and economics.
 *   **Global Footprint:** Mechanical Engineering (🇨🇳) → Robotics Researcher at Tohoku (🇯🇵) → Statistical Physics PhD at NTU (🇸🇬) → Wolfram Summer School (🇺🇸) → CSIRO/McKinsey/AWS (🇦🇺) → Google.
 
 ---
 
-### 📊 Vital Signs & Contribution Velocity
+### 🧬 Contribution Topology
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=sunbc0120&show_icons=true&count_private=true&include_all_commits=true&theme=default&bg_color=ffffff&hide_border=true&title_color=4285F4" alt="Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sunbc0120&layout=compact&theme=default&bg_color=ffffff&hide=jupyter%20notebook&langs_count=6&hide_border=true&title_color=4285F4" alt="Languages" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunbc0120&theme=default&background=ffffff&hide_border=true" alt="Streak" />
+  <img src="./profile-3d-contrib/profile-google-dual.svg" width="100%" alt="3D GitHub contribution calendar" />
 </div>
 
 ---
