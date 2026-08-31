@@ -107,9 +107,7 @@ At Google, I advise APAC’s enterprise C-suites on the sovereign adoption of Ge
 ---
 
 ### 📡 External Interfaces
-
 <div align="center">
-  <code>baichuan@github:~$ route --list external</code>
   <br/><br/>
   <a href="https://www.linkedin.com/in/sunbc0120">
     <img src="./assets/social/linkedin-terminal.svg" width="390" alt="Connect with Baichuan Sun on LinkedIn" />
