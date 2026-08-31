@@ -78,7 +78,7 @@ At Google, I advise APAC’s enterprise C-suites on the sovereign adoption of Ge
 > "Science is only as useful as its ability to be democratized."
 
 *   **Lead GenAI Solutions:** Architecting AI roadmaps for APAC Decacorns, transforming legacy data into **Agentic Intelligence**.
-*   **Open Source Authority:** Co-author and PyPI maintainer of [Amazon DenseClus](https://github.com/awslabs/amazon-denseclus), an AWS Labs package for mixed-type clustering with [138K+ downloads on PyPI](https://pypi.org/project/amazon-denseclus/).
+*   **Open Source Authority:** Co-author and [PyPI maintainer](https://pypi.org/project/amazon-denseclus/) of [Amazon DenseClus](https://github.com/awslabs/amazon-denseclus), an AWS Labs package for mixed-type clustering with [138K+ downloads](https://pepy.tech/projects/amazon-denseclus).
 *   **3M+ Professionals reached** via technical publications and strategic guidance on AI infrastructure and economics.
 *   **Global Footprint:** Mechanical Engineering (🇨🇳) → Robotics Researcher at Tohoku (🇯🇵) → Statistical Physics PhD at NTU (🇸🇬) → Wolfram Summer School (🇺🇸) → CSIRO/McKinsey/AWS (🇦🇺) → Google.
 
