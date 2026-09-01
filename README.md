@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Baichuan Sun, Ph.D.</h1>
-  <p><b>Lead GenAI Engineer @ Google APAC</b></p>
+  <p><b>Lead GenAI Customer Engineer @ Google</b></p>
   <p><i>Bridging Deep R&D, Corporate Strategy, and Production-Grade Engineering</i></p>
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Reasoning-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
