@@ -14,7 +14,14 @@
 ---
 
 ### 🌐 The Convergence of Intelligence & Strategy
-I architect the bridge between **scientific rigor** and **sustainable business value**. My work centers on translating the kinetic energy of frontier AI research into the potential energy of enterprise transformation. From computational physics to boardroom decision-making and hyperscale cloud AI engineering, I navigate the full stack of modern intelligence.
+
+I architect and prototype enterprise AI systems across distributed post-training, multimodal agents, and regulated workflows. I work across the full decision chain: frame the business and technical decision, build the critical path, demonstrate it under real constraints, and hand over something the customer team can operate.
+
+My goal is not to choose between engineering and strategy. It is to use technical depth to improve consequential decisions—and to stay close enough to implementation to know when the slide deck is wrong.
+
+- **Build:** Own the technically uncertain path from architecture to working proof.
+- **Decide:** Connect model and platform choices to economics, security, governance, and organisational readiness.
+- **Multiply:** Turn individual engagements into reusable architectures, public knowledge, and stronger delivery teams.
 
 ---
 
@@ -25,6 +32,16 @@ At Google, I advise APAC’s enterprise C-suites on the sovereign adoption of Ge
 *   **Infrastructure Economics:** Optimizing elastic HPC and training/inference costs for the next billion tokens.
 *   **Cognitive Trust:** Engineering the guardrails, red-teaming frameworks, and safety layers required for enterprise-grade compliance.
 *   **Next-Gen CX:** Deploying hyper-personalized, real-time multimodal agents that redefine human-computer interaction.
+
+---
+
+### 🩺 How I Operate
+
+- **Under pressure:** Management consulting taught me to remain useful when the room becomes difficult—turn conflict into decisions, convert ambiguity into an executable plan, and stay accountable through delivery rather than stopping at the presentation.
+
+- **Without a playbook:** Research taught me to be comfortable with problems I have not solved before: form hypotheses, build experiments, and converge on a workable answer under real constraints.
+
+- **With ownership:** I architect, prototype, build, demonstrate, and hand over. The work spans executive stakeholders, platform teams, researchers, and the engineers who must operate the result.
 
 ---
 
